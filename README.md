@@ -1,6 +1,7 @@
-#👋 Hi, I’m @williamsplaxton
-  
+# 👋 Hi, I’m @williamsplaxton
+  ![image](https://github.com/williamsplaxton/williamsplaxton/assets/156111808/ce6d8161-aa95-4f2d-a666-86a99036dd47)
 
+William.Plaxton@sac.on.ca 
 - 👀 I’m interested in football
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
